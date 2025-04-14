@@ -1,4 +1,0 @@
-gym[classic_control]
-pyvirtualdisplay
-setuptools
-ez_setup
